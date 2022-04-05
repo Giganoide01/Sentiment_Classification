@@ -1,5 +1,32 @@
 # Sentiment_Classification
-Modelo de classificação de sentimentos com base em avaliações da assitente inteligente Alexa. Trabalho desenvolvido para a avaliação final da matéria de Processamento de Texto da especialização em Ciência de Dados do CIn - UFPE
+Modelos de classificação de sentimentos com base em avaliações da assitente inteligente Alexa (Echo dot 4ª Geração). Trabalho desenvolvido para a avaliação final da matéria de Mineração de Texto e Web da especialização em Ciência de Dados do CIn - UFPE
+
+## Discentes:
+- Leonardo Miranda de Brito
+- Natália Oliveira
+
+## Conteúdo:
+- Dataset: Contém 3 datasets.
+  - Datset com texto contendo Stopwords, sem stemming (NoStem_TotalStopwordRemoval_dataset.csv);
+  - Datset com texto sem Stopwords, sem stemming (NoStem_StopwordKeep_dataset.csv);
+  - Datset com texto sem Stopwords, com stemming (Stem_TotalStopwordRemoval_dataset.csv).
+
+- Scripts: Contém os scripts utilizados durante o projeto.
+  - Notebook com o pré-processamento dos dados (pre_processing.ipynb);
+  - Notebook com os experimentos com TFIDF e Random Forest com e sem stemming (TFIDF+RF.ipynb);
+  - Notebook com os experimentos com classificação por CNN (CNN_classifier.ipynb);
+  - Notebook com os experimentos com classificação por LSTM (LSTM_classifier.ipynb);
+  - Notebook com os experimentos com classificação por BERT (BERT.ipynb);
+  - Notebook com os plots de avaliação extras sobre os classificadores (evaluation_plots.ipynb).
+
+- dataset_with_prediction: Contém datasets de teste salvos com a predição de seu respectivo modelo.
+  -  RF_noStem_predict.csv;
+  -  RF_Stem_predict.csv;
+  -  CNN_predict.csv;
+  -  LSTM_predict.csv;
+  -  BERT_predict.csv.
+
+- amazon_reviews_scraping: códigos usados durante o web scrapping
 
 ## Link para o vídeo
 https://drive.google.com/drive/folders/1P-uj2OlSULeJ7ri-vavmeRntvDsf_zm2?usp=sharing&authuser=2
