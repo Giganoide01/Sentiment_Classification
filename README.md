@@ -1,4 +1,4 @@
-# Sentiment_Classification
+# Sentiment Classification Echo Dot
 Modelos de classificação de sentimentos com base em avaliações da assitente inteligente Alexa (Echo dot 4ª Geração). Trabalho desenvolvido para a avaliação final da matéria de Mineração de Texto e Web da especialização em Ciência de Dados do CIn - UFPE
 
 ## Discentes:
