@@ -29,9 +29,9 @@ Modelos de classificação de sentimentos com base em avaliações da assitente 
 - amazon_reviews_scraping: códigos usados durante o web scrapping
 
 ## Link para o vídeo
-https://drive.google.com/drive/folders/1P-uj2OlSULeJ7ri-vavmeRntvDsf_zm2?usp=sharing&authuser=2
+https://www.dropbox.com/s/zfeecqdehywaam9/Mineracao_Texto_TrabFinal_Leonardo_Natalia.mp4?dl=0
 
-## Link para página do stramlit
+## Link para página do streamlit
 https://share.streamlit.io/nsilvade/minera-o/main/app.py
 
 ## Link para repositório do streamlit
